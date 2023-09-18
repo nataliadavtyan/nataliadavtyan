@@ -1,4 +1,4 @@
-### Hi, I'm Natalia Davtyan (she / her) 👩🏻‍💻✨
+# Hi, I'm Natalia Davtyan (she / her) 👩🏻‍💻✨
 
 # 💫 About Me:
 🔭 I’m currently reviewing students' solo project codes at Scrimba<br>👯 I’m looking to collaborate on a group project<br>🤝 I’m looking for help with finding my first job in Barcelona, Spain<br>🌱 I’m currently learning React Router 6<br>💬 Ask me about why I think coding is a creative process<br>⚡ Fun fact: I am a photographer and used to be a publisher of a lifestyle magazine about runners
