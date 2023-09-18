@@ -1,7 +1,8 @@
 # Hi, I'm Natalia (she / her) 👋🏻👩🏻‍💻✨
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nataliadavtyan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliadi)
 
 ![](github-profile-image.png)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nataliadavtyan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliadi)
 
 # About Me:
 🔭 I’m currently reviewing students' solo project codes at Scrimba<br>👯 I’m looking to collaborate on a group project<br>🤝 I’m looking for help with finding my first job in Barcelona, Spain<br>🌱 I’m currently learning React Router 6<br>💬 Ask me about why I think coding is a creative process<br>⚡ Fun fact: I am a photographer and used to be a publisher of a lifestyle magazine about runners
