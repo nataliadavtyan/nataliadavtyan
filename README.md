@@ -1,4 +1,4 @@
-# Hi, I'm Natalia (she / her) 👋🏻👩🏻‍💻✨
+# Hi, I'm Natalia (she / her) 👋🏻
 
 ![](github-profile-image.png)
 
