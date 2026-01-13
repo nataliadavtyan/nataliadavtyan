@@ -6,7 +6,7 @@ I’m a Frontend Developer who made the move into engineering after 5 years in B
 
 ---
 
-## 🚀 What I’m doing at Aniwa
+## 👩‍💻 What I’m doing at Aniwa
 *I’m currently focused on building an AI-driven ecosystem for the insurance industry.*
 
 * **AI Features:** Using **Gemini AI** to help brokers automate policy comparisons and data extraction.
