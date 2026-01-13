@@ -38,4 +38,4 @@ Most of my daily work happens in **private company repositories** on GitLab (wor
 ---
 
 ## 🤝 Let's Connect
-[LinkedIn](linkedin.com/in/nataliadavtyan) | [Email](mailto:natalia.davtyan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nataliadavtyan) | [Email](mailto:natalia.davtyan@gmail.com)
